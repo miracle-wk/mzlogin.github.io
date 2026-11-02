@@ -1,11 +1,11 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://mazhuang.org
+baseurl:"/mzlogin.github.io"
+url: "https://miracle.github.io"
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
+title: miracle-wk's blog
+subtitle: write down my own learning exxperience
 description: "马壮的个人博客，公众号：闷骚的程序员"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/Shanghai
@@ -57,7 +57,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: miracle
 organization: 
 organization_url: 
 github_username: mzlogin
