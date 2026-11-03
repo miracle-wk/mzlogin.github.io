@@ -1,10 +1,10 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:"/mzlogin.github.io"
+baseurl: "/mzlogin.github.io"
 url: "https://miracle-wk.github.io"
 date_format: "ordinal"
-title: miracle-wk's blog
+title: "miracle-wk's blog"
 subtitle: write down my own learning experience
 description: "miracle will happen anywhere"
 keywords: 
